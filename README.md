@@ -1,0 +1,1 @@
+Este é o meu primeiro projeto pessoal de pipeline de dados utilizando Python. O objetivo é realizar a ingestão, tratamento e fusão de dados de forma automatizada, servindo como base para análises futuras.
